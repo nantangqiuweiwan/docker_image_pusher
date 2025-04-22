@@ -1,2 +1,3 @@
 hello-world
 nginx
+openjdk:8-alpine
